@@ -1,5 +1,5 @@
 
-Anterior: ⏪ [Videos de YouTube y Vimeo en Platzi](https://platzi.com/comunidad/videos-de-youtube-y-vimeo-en-markdown) 📺
+_Anterior:_ ⏪ [_Videos de YouTube y Vimeo en Platzi_](https://platzi.com/comunidad/videos-de-youtube-y-vimeo-en-markdown) 📺
 
 ==«==
 ---
@@ -51,7 +51,7 @@ Deja en el sistema de comentarios cuales otras formas de generar ASCII Art conoc
 ---
 
 
-**Continúa tu aprendizaje con:**
+**_Continúa tu aprendizaje con:_**
 
 * ⏩ [_Bonus: Fórmulas matemáticas_](https://platzi.com/comunidad/bonus-formulas-matematicas-en-markdown) ➗
 
