@@ -4,7 +4,7 @@
 Las ideas recién nacidas son frágiles, y expuestas de la forma incorrecta en el entorno incorrecto, irremediablemente están destinadas a morir. **Aquí encontrarás los mejores atuendos para adornar tus ideas y darles la mejor apariencia con Markdown**, una forma rápida y efectiva de darle estilo a tus ideas para que resplandezcan y resalten en público, y si hay suerte, vuelvan a ti, diferentes, renovadas. 
 
 
-Puedes usarlo en Slack para [comunicarte con tu equipo de trabajo](https://platzi.com/clases/slack/ "Curso de Comunicación Online con Slack") y es el lenguaje de marcado por defecto en la documentación de los [proyectos que usan Git-hub](https://platzi.com/clases/git-github/ "Curso Profesional de Git y GitHub").  
+Puedes usar Markdown en Slack para [comunicarte con tu equipo de trabajo](https://platzi.com/clases/slack/ "Curso de Comunicación Online con Slack") y es el lenguaje de marcado por defecto en la documentación de los [proyectos que usan Git-hub](https://platzi.com/clases/git-github/ "Curso Profesional de Git y GitHub").  
 
 
 ==«==
@@ -36,7 +36,7 @@ Markdown es utilizado para casi todos los mecanismos de participación y comunic
 
 ==»==
 ---
-La mayoría de las herramientas que presentaré funcionan de manera ubicua en cualquier sitio con Markdown como en Slack para [comunicarte con tu equipo de trabajo](https://platzi.com/clases/slack/ "Curso de Comunicación Online con Slack") o para la documentación de tus [proyectos que usan Git-hub](https://platzi.com/clases/git-github/ "Curso Profesional de Git y GitHub").  
+
 
 Una de las grandes ventajas de este editor es una extensibilidad y adaptabilidad, por ende, al momento en que estés leyendo estas líneas, es posible que sus funcionalidades hayan sido extendidas o modificadas. Markdown es muy utilizado en la industria de la tecnología por su versatilidad y sencillez. 
 
@@ -47,9 +47,6 @@ Una de las grandes ventajas de este editor es una extensibilidad y adaptabilidad
 
 [![Casco astronauta animado](https://i.imgur.com/b1kbwbR.gif)](https://platzi.com/cursos "Nunca pares de aprender")
 
-
-
-y videos.
 
 @[vimeo](427943407|https://vimeo.com/427943407/) @[youtube]( ZYmIUiK8ZQI|https://www.youtube.com/watch?v=ZYmIUiK8ZQI)
 
