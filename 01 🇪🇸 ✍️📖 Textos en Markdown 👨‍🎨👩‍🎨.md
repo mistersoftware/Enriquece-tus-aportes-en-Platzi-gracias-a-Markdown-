@@ -1,5 +1,5 @@
 
-Anterior: ⏪ [Enriquece tus aportes en Platzi gracias a Markdown👨‍🎨👩‍🎨](https://platzi.com/comunidad/enriquece-tus-aportes-en-platzi-gracias-a-markdown "Enriquece tus aportes en Platzi gracias a Markdown")
+Anterior: ⏪ [_Enriquece tus aportes en Platzi gracias a Markdown👨‍🎨👩‍🎨_](https://platzi.com/comunidad/enriquece-tus-aportes-en-platzi-gracias-a-markdown "Enriquece tus aportes en Platzi gracias a Markdown")
 
 
 ==«==
@@ -294,7 +294,7 @@ https\:/[]()/example.com/
 
 **_Continúa tu aprendizaje con:_**
 
-* ⏩ _[Imágenes en Markdown](https://platzi.com/comunidad/imagenes-en-markdown "Imágenes en Markdown")_ 📷
+* ⏩ [_Imágenes en Markdown_](https://platzi.com/comunidad/imagenes-en-markdown "Imágenes en Markdown") 📷
 
 ==»==
 ---
