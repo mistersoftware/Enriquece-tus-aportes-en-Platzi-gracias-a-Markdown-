@@ -1,0 +1,68 @@
+
+Anterior: ⏪ [Imágenes en Markdown](https://platzi.com/comunidad/imagenes-en-markdown)  📷
+
+
+==«==
+---
+ 
+ 
+> _**" Esta publicación forma parte de una serie denominada: 🇪🇸 ✍️ [Enriquece tus aportes en Platzi gracias a Markdown](https://platzi.com/blog/enriquece-tus-aportes-en-platzi-gracias-a-markdown/). 👨‍🎨👩‍🎨. Si has llegado aquí sin pasar por allí, te recomiendo visitarla, donde encontraras el índice principal. "**_
+
+
+==»==
+---
+
+## 🎬 Animaciones
+
+A nivel pedagógico las animaciones tienen mucho peso. Existen muchos programas como por ejemplo [Recordit](https://recordit.co/) que te permiten grabar tu pantalla (o una parte) y crear un archivo GIF a partir de ella. 
+
+> _**Si solo buscas compartir la consola (y estas en linux) puedes grabar un video de ella y compartirlo mediante [asciinema](https://itsfoss.com/asciinema-record-terminal/) con la gran ventaja que la persona que vea tu video podra copiar y pegar los comandos desde el video hacia su propia consola.**_
+
+A diferencia de las imágenes con formato PNG y JPG que pueden arrastrarse y soltarse directamente en la casilla de texto cuando estás escribiendo un comentario, los archivos GIF deben subirse a [servicio gratuito](https://imgur.com) e incrustarse, como se muestra a continuación: 
+
+==«==
+---
+
+`![Servidores](https://i.imgur.com/xsquSxI.gif)`
+
+==» El código anterior producirá: »==
+---
+  
+ ![Servidores](https://i.imgur.com/xsquSxI.gif)
+
+
+## Animaciones con enlace
+
+==«==
+---
+
+`[![Casco astronauta](https://i.imgur.com/b1kbwbR.gif)](https://platzi.com/cursos "Nunca pares de aprender")`
+
+
+==» El código anterior producirá: »==
+---
+
+
+[![Casco astronauta](https://i.imgur.com/b1kbwbR.gif)](https://platzi.com/cursos "Nunca pares de aprender")
+
+
+
+
+==«==
+---
+
+
+**Continúa tu aprendizaje con:**
+
+* ⏩ _[Emojis en Markdown](https://platzi.com/comunidad/emojis-en-markdown)_ 🍕
+
+==»==
+---
+[📖](https://platzi.com/comunidad/textos-en-markdown/ "Textos en Markdown")  [📷](https://platzi.com/comunidad/imagenes-en-markdown/ "Imágenes en Markdown") [🎬](https://platzi.com/comunidad/animaciones-en-markdown/ "Animaciones en Markdown") [🍕](https://platzi.com/comunidad/emojis-en-markdown/ "Emojis en Markdown") [🆎](https://platzi.com/comunidad/variables-en-markdown/ "Variables en Markdown") [🔲](https://platzi.com/comunidad/botones-en-markdown/ "Botones en Markdown")  [🌈](https://platzi.com/comunidad/colores-en-markdown/ "Colores en Markdown")  [☑️](https://platzi.com/comunidad/listas-y-tablas-en-markdown/ "Listas y Tablas en Markdown")  [📺](https://platzi.com/comunidad/videos-de-youtube-y-vimeo-en-markdown/ "Videos de Youtube y Vimeo en Markdown")  [🔣](https://platzi.com/comunidad/ascii-art-en-markdown/ "ASCII Art en Markdown")  [➗](https://platzi.com/comunidad/bonus-formulas-matematicas-en-markdown "Bonus: Fórmulas matemáticas en Markdown")
+
+
+Hecho con el 💚 en el 2K20. 
+
+
+
+[⚫](https://drive.google.com/file/d/1qDOf0xEw2W_dxhfvZ6MDPPM77ey8u4uc/view?usp=sharing  "Código fuente de esta página") 
