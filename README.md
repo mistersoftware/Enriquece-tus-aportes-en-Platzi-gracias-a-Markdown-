@@ -1,5 +1,5 @@
 
-## 🇪🇸 ✍️ Enriquece tus aportes en Platzi gracias a Markdown👨‍🎨👩‍🎨
+## _🇪🇸 ✍️ Enriquece tus aportes en Platzi gracias a Markdown👨‍🎨👩‍🎨_
 
 Las ideas recién nacidas son frágiles, y expuestas de la forma incorrecta en el entorno incorrecto, irremediablemente están destinadas a morir. **Aquí encontrarás los mejores atuendos para adornar tus ideas y darles la mejor apariencia con Markdown**, una forma rápida y efectiva de darle estilo a tus ideas para que resplandezcan y resalten en público, y si hay suerte, vuelvan a ti, diferentes, renovadas. 
 
@@ -73,7 +73,7 @@ Una de las grandes ventajas de este editor es una extensibilidad y adaptabilidad
  ---
 
 
-**Continúa tu aprendizaje con:**
+**_Continúa tu aprendizaje con:_**
 
 * ⏩ [_Textos en Markdown_](https://platzi.com/comunidad/textos-en-markdown) 📖
 
