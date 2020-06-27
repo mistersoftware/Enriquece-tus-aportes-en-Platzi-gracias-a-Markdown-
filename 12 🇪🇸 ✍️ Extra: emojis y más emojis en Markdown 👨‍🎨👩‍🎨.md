@@ -307,7 +307,6 @@ Symbols
 `![:trollface:](https://github.githubassets.com/images/icons/emoji/trollface.png ":trollface:")`
 
 ![:trollface:](https://github.githubassets.com/images/icons/emoji/trollface.png ":trollface:")
-
 ==«==
 ---
  
@@ -316,7 +315,6 @@ Symbols
 
 
 ==»==
----
 
 Fuente:
 ---
