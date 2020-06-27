@@ -1,5 +1,5 @@
 
-Anterior: ⏪ [Textos en Markdown](https://platzi.com/comunidad/textos-en-markdown)  📖
+_Anterior:_ ⏪ [_Textos en Markdown_](https://platzi.com/comunidad/textos-en-markdown)  📖
 
 
 ==«==
@@ -57,7 +57,7 @@ Puedes subir tus imágenes y GIF a un [servicio gratuito como Imgur](https://img
 ==«==
 ---
 
-**Continúa tu aprendizaje con:**
+**_Continúa tu aprendizaje con:_**
 
 * ⏩ _[Animaciones en Markdown](https://platzi.com/comunidad/animaciones-en-markdown)_ 🎬
 
