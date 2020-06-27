@@ -1,5 +1,5 @@
 
-Anterior: ⏪ [Botones en Markdown](https://platzi.com/comunidad/botones-en-markdown) 🔲
+_Anterior:_ ⏪ [_Botones en Markdown_](https://platzi.com/comunidad/botones-en-markdown) 🔲
 
 ==«==
 ---
@@ -45,7 +45,7 @@ Markdown es un lugar muy serio, **pero eso puede cambiar** mediante el uso del s
 ==«==
 ---
 
-**Continúa tu aprendizaje con:**
+**_Continúa tu aprendizaje con:_**
 
 * ⏩ _[Listas y Tablas en Markdown](https://platzi.com/comunidad/listas-y-tablas-en-markdown)_ ☑️
 
