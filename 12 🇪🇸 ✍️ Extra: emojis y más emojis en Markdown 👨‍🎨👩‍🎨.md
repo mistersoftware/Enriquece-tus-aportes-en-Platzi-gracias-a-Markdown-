@@ -307,21 +307,7 @@ Symbols
 `![:trollface:](https://github.githubassets.com/images/icons/emoji/trollface.png ":trollface:")`
 
 ![:trollface:](https://github.githubassets.com/images/icons/emoji/trollface.png ":trollface:")
-==«==
----
- 
- 
-> **Esta publicación forma parte de una serie denominada: 🇪🇸 ✍️ [Enriquece tus aportes en Platzi gracias a Markdown](https://platzi.com/comunidad/enriquece-tus-aportes-en-platzi-gracias-a-markdown/). 👨‍🎨👩‍🎨**. Si has llegado aquí sin pasar por allí, te recomiendo visitarla, donde encontraras el índice principal.
 
-
-==»==
-
-Fuente:
----
-
-[1] [GitHub Gist](https://gist.github.com/rxaviers/7360908) 
-
----
 ==«==
 ---
  
@@ -331,6 +317,14 @@ Fuente:
 
 ==»==
 ---
+
+Fuente:
+---
+
+[1] [GitHub Gist](https://gist.github.com/rxaviers/7360908) 
+
+---
+
 
 [📖](https://platzi.com/comunidad/textos-en-markdown/ "Textos en Markdown")  [📷](https://platzi.com/comunidad/imagenes-en-markdown/ "Imágenes en Markdown") [🎬](https://platzi.com/comunidad/animaciones-en-markdown/ "Animaciones en Markdown") [🍕](https://platzi.com/comunidad/emojis-en-markdown/ "Emojis en Markdown") [🆎](https://platzi.com/comunidad/variables-en-markdown/ "Variables en Markdown") [🔲](https://platzi.com/comunidad/botones-en-markdown/ "Botones en Markdown")  [🌈](https://platzi.com/comunidad/colores-en-markdown/ "Colores en Markdown")  [☑️](https://platzi.com/comunidad/listas-y-tablas-en-markdown/ "Listas y Tablas en Markdown")  [📺](https://platzi.com/comunidad/videos-de-youtube-y-vimeo-en-markdown/ "Videos de Youtube y Vimeo en Markdown")  [🔣](https://platzi.com/comunidad/ascii-art-en-markdown/ "ASCII Art en Markdown")  [➗](https://platzi.com/comunidad/bonus-formulas-matematicas-en-markdown "Bonus: Fórmulas matemáticas en Markdown")
 
