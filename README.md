@@ -1,5 +1,5 @@
 
-
+## 🇪🇸 ✍️ Enriquece tus aportes en Platzi gracias a Markdown👨‍🎨👩‍🎨
 
 Las ideas recién nacidas son frágiles, y expuestas de la forma incorrecta en el entorno incorrecto, irremediablemente están destinadas a morir. **Aquí encontrarás los mejores atuendos para adornar tus ideas y darles la mejor apariencia con Markdown**, una forma rápida y efectiva de darle estilo a tus ideas para que resplandezcan y resalten en público, y si hay suerte, vuelvan a ti, diferentes, renovadas. 
 
@@ -47,9 +47,6 @@ Una de las grandes ventajas de este editor es una extensibilidad y adaptabilidad
 
 [![Casco astronauta animado](https://i.imgur.com/b1kbwbR.gif)](https://platzi.com/cursos "Nunca pares de aprender")
 
-
-
-y videos.
 
 @[vimeo](427943407|https://vimeo.com/427943407/) @[youtube]( ZYmIUiK8ZQI|https://www.youtube.com/watch?v=ZYmIUiK8ZQI)
 
