@@ -1,5 +1,5 @@
 
-Anterior: ⏪ [ASCII Art en Markdown](https://platzi.com/comunidad/ascii-art-en-markdown) 🔣
+_Anterior:_ ⏪ [_ASCII Art en Markdown_](https://platzi.com/comunidad/ascii-art-en-markdown) 🔣
 
 ==«==
 ---
@@ -69,7 +69,7 @@ Fuentes:
 ==«==
 ---
 
-**Continúa tu aprendizaje con:**
+**_Continúa tu aprendizaje con:_**
 
 * ✍️ [![Escritura Online](https://i.imgur.com/3gtTnRU.gif) _Curso de escritura online_](https://platzi.com/clases/escritura-online/ "Curso de escritura online") 🌎
 
