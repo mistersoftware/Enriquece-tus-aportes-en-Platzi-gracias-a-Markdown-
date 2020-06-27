@@ -1,5 +1,5 @@
 
-Anterior: ⏪ [Animaciones en Markdown](https://platzi.com/comunidad/animaciones-en-markdown) 🎬
+_Anterior:_ ⏪ [_Animaciones en Markdown_](https://platzi.com/comunidad/animaciones-en-markdown) 🎬
 
 ==«==
 ---
@@ -33,7 +33,7 @@ Para incluir un emoji **siempre podrás copiar y pegar** el emoji mismo de la ta
 ---
 
 
-**Continúa tu aprendizaje con:**
+**_Continúa tu aprendizaje con:_**
 
 * ⏩ _[Variables en Markdown](https://platzi.com/comunidad/variables-en-markdown)_ 🆎
 
