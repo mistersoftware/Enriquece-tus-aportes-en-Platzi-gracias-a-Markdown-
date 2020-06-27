@@ -1,5 +1,5 @@
 
-Anterior: ⏪ [Variables en Markdown](https://platzi.com/comunidad/variables-en-markdown) 🆎
+_Anterior:_ ⏪ [_Variables en Markdown_](https://platzi.com/comunidad/variables-en-markdown) 🆎
 
 ==«==
 ---
@@ -35,7 +35,7 @@ Una forma sencilla y llamativa de navegar entre tus documentos.
 ==«==
 ---
 
-**Continúa tu aprendizaje con:**
+**_Continúa tu aprendizaje con:_**
 
 * ⏩ _[Colores en Markdown](https://platzi.com/comunidad/colores-en-markdown)_ ️💚 
 
