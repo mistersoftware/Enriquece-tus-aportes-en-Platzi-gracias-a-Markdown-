@@ -1,4 +1,5 @@
 
+
 _Anterior:_ ⏪ [_Emojis en Markdown_](https://platzi.com/comunidad/emojis-en-markdown) 🍕
 
 ==«==
@@ -13,7 +14,7 @@ _Anterior:_ ⏪ [_Emojis en Markdown_](https://platzi.com/comunidad/emojis-en-ma
 
 ## 🆎 Variables temporales
 
-A continuación verás un verdadero **_trucazo_**. Si utilizas frases o enlaces de forma repetitiva en tu publicación, puedes asignarlos a variables o espacios temporales de memoria así:
+A continuación verás un verdadero **_trucazo_**. Si utilizas  enlaces o imágenes de forma repetitiva en tu publicación, puedes asignarlas a variables o espacios temporales de memoria así:
 
 ==«==
 ---
@@ -24,6 +25,19 @@ Si encuentras una pregunta sin responder y [sabes algo al respecto][url1], o pue
   [url1]:    https://platzi.com/url1
   [url2]:     https://platzi.com/url2
 ````
+
+---
+
+````
+[imagencasco]: https://i.imgur.com/b1kbwbR.gif "Casco Astronauta"
+
+![imagencasco]
+
+La imagen se ha definido en una variable y la variable se reutiliza según arriba y abajo de este parrafo.
+
+![imagencasco]
+````
+
 
 ==» El código anterior producirá: »==
 ---
@@ -34,12 +48,45 @@ Si encuentras una pregunta sin responder y [sabes algo al respecto][url1], o pue
   [url1]:    https://platzi.com/url1
   [url2]:     https://platzi.com/url2
 
+---
 
+[imagencasco]: https://i.imgur.com/b1kbwbR.gif "Casco Astronauta"
+
+![imagencasco]
+
+La imagen se ha definido en una variable y la variable se reutiliza arriba y abajo de este párrafo.
+
+![imagencasco]
+
+
+## Comentarios ocultos
+
+Es posible insertar comentarios ocultos utilizando la misma sintaxis. (La fila o renglon anterior al comentario debe estar vacía)
+
+==«==
+---
+
+```
+2 Renglón anterior al comentario
+
+[//]: # (Este comentario sera añadido al repositorio pero no sera mostrado al visitante al ser renderizado .)
+Renglón siguiente al comentario
+```
+
+==»==
+---
+
+
+2 Renglón anterior al comentario
+
+[//]: # (Este comentario será añadido al repositorio pero no será mostrado al visitante al ser renderizado.)
+Renglón siguiente al comentario
 
 
 
 ==«==
 ---
+
 
 
 
