@@ -1,5 +1,5 @@
 
-Anterior: ⏪ [Listas y Tablas en Markdown](https://platzi.com/comunidad/listas-y-tablas-en-markdown) ☑️
+_Anterior:_ ⏪ [_Listas y Tablas en Markdown_](https://platzi.com/comunidad/listas-y-tablas-en-markdown) ☑️
 
 ==«==
 ---
@@ -75,7 +75,7 @@ También puedes recrear el mismo efecto con una [Imagen](https://platzi.com/comu
 ==«==
 ---
 
-**Continúa tu aprendizaje con:**
+**_Continúa tu aprendizaje con:_**
 
 * ⏩ [_ASCII Art en Markdown_](https://platzi.com/comunidad/ascii-art-en-markdown) 🔣
 
