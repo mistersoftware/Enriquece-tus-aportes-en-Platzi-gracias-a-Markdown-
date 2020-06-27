@@ -1,5 +1,5 @@
 
-Anterior: ⏪ [Colores en Markdown](https://platzi.com/comunidad/colores-en-markdown) ️💚 
+_Anterior:_ ⏪ [_Colores en Markdown_](https://platzi.com/comunidad/colores-en-markdown) ️💚 
 
 ==«==
 ---
@@ -146,7 +146,7 @@ Las tablas pueden tener tantas columnas y filas como sea necesario. **Las column
 ==«==
 ---
 
-**Continúa tu aprendizaje con:**
+**_Continúa tu aprendizaje con:_**
 
 * ⏩ [_Videos de YouTube y Vimeo en Platzi_](https://platzi.com/comunidad/videos-de-youtube-y-vimeo-en-markdown) 📺
 
