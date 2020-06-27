@@ -1,5 +1,5 @@
 
-Anterior: ⏪ [Emojis en Markdown](https://platzi.com/comunidad/emojis-en-markdown) 🍕
+_Anterior:_ ⏪ [_Emojis en Markdown_](https://platzi.com/comunidad/emojis-en-markdown) 🍕
 
 ==«==
 ---
@@ -44,7 +44,7 @@ Si encuentras una pregunta sin responder y [sabes algo al respecto][url1], o pue
 
 
 
-**Continúa tu aprendizaje con:**
+**_Continúa tu aprendizaje con:_**
 
 * ⏩ _[Botones en Markdown](https://platzi.com/comunidad/botones-en-markdown)_ 🔲
 
