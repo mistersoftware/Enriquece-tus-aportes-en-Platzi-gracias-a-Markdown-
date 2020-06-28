@@ -15,6 +15,35 @@ Puedes usar Markdown en Slack para [comunicarte con tu equipo de trabajo](https:
 ---
 
 
+Una de las grandes ventajas de este editor es una extensibilidad y adaptabilidad, por ende, al momento en que estés leyendo estas líneas, es posible que sus funcionalidades hayan sido extendidas o modificadas. Markdown es muy utilizado en la industria de la tecnología por su versatilidad y sencillez. 
+
+
+## Índice de contenidos
+
+
+1. 📖 [Textos](https://platzi.com/comunidad/textos-en-markdown/ "Textos en Markdown") 
+1. 📷 [Imágenes](https://platzi.com/comunidad/imagenes-en-markdown/ "Imágenes en Markdown") 
+1. 🎬 [Animaciones](https://platzi.com/comunidad/animaciones-en-markdown/ "Animaciones en Markdown") 
+1. 🍕 [Emojis](https://platzi.com/comunidad/emojis-en-markdown/ "Emojis en Markdown") 
+1. 🆎 [Variables](https://platzi.com/comunidad/variables-en-markdown/ "Variables en Markdown") 
+1. 🔲 [Botones](https://platzi.com/comunidad/botones-en-markdown/ "Botones en Markdown") 
+1. 🌈 [Colores](https://platzi.com/comunidad/colores-en-markdown/ "Colores en Markdown") 
+1. ☑️ [Listas y Tablas](https://platzi.com/comunidad/listas-y-tablas-en-markdown/ "Listas y Tablas en Markdown") 
+1. 📺 [Videos de Youtube y Vimeo](https://platzi.com/comunidad/videos-de-youtube-y-vimeo-en-markdown/ "Videos de Youtube y Vimeo en Markdown") 
+1. 🔣 [ASCII Art](https://platzi.com/comunidad/ascii-art-en-markdown/ "ASCII Art en Markdown") 
+1. ➗ [Bonus: Fórmulas matemáticas](https://platzi.com/comunidad/bonus-formulas-matematicas-en-markdown "Bonus: Fórmulas matemáticas en Markdown") 
+
+
+## ¿Qué Aprenderemos?
+
+ Con todo listo, manos a la obra, aprenderemos como controlar la visualización del documento; ==resaltando== palabras en **negrita** o _cursiva_, [enlaces](), agregando 👨‍🚀Emojis🚀,  [![url2](https://via.placeholder.com/75x25/98ca3f/444?text=Botones "Código Fuente del artículo Imágenes")](https://drive.google.com/file/d/1x6TACRmABiGQdZbztIdMi73wMINwOta5/view?usp=sharing), creando listas o tablas. Aprenderemos como utilizar variables para ahorrarnos mucho trabajo y un par de trucos extra para traer color a nuestras publicaciones y para finalizar, veremos como incluir expresiones matemáticas **y obviamente como insertar imágenes, animaciones y videos.** 
+
+
+[![Casco astronauta animado](https://i.imgur.com/b1kbwbR.gif)](https://platzi.com/cursos "Nunca pares de aprender")
+
+
+@[vimeo](427943407|https://vimeo.com/427943407/) @[youtube]( ZYmIUiK8ZQI|https://www.youtube.com/watch?v=ZYmIUiK8ZQI)
+
 
 Markdown es utilizado para casi todos los mecanismos de participación y comunicación en Platzi, A continuación encuentras un breve resumen de ellos 
 
@@ -36,37 +65,6 @@ Markdown es utilizado para casi todos los mecanismos de participación y comunic
 
 ==»==
 ---
-
-
-Una de las grandes ventajas de este editor es una extensibilidad y adaptabilidad, por ende, al momento en que estés leyendo estas líneas, es posible que sus funcionalidades hayan sido extendidas o modificadas. Markdown es muy utilizado en la industria de la tecnología por su versatilidad y sencillez. 
-
-## ¿Qué Aprenderemos?
-
- Con todo listo, manos a la obra, aprenderemos como controlar la visualización del documento; ==resaltando== palabras en **negrita** o _cursiva_, [enlaces](), agregando 👨‍🚀Emojis🚀,  [![url2](https://via.placeholder.com/75x25/98ca3f/444?text=Botones "Código Fuente del artículo Imágenes")](https://drive.google.com/file/d/1x6TACRmABiGQdZbztIdMi73wMINwOta5/view?usp=sharing), creando listas o tablas. Aprenderemos como utilizar variables para ahorrarnos mucho trabajo y un par de trucos extra para traer color a nuestras publicaciones y para finalizar, veremos como incluir expresiones matemáticas **y obviamente como insertar imágenes, animaciones y videos.** 
-
-
-[![Casco astronauta animado](https://i.imgur.com/b1kbwbR.gif)](https://platzi.com/cursos "Nunca pares de aprender")
-
-
-@[vimeo](427943407|https://vimeo.com/427943407/) @[youtube]( ZYmIUiK8ZQI|https://www.youtube.com/watch?v=ZYmIUiK8ZQI)
-
-
-## Índice de contenidos
-
-
-1. 📖 [Textos](https://platzi.com/comunidad/textos-en-markdown/ "Textos en Markdown") 
-1. 📷 [Imágenes](https://platzi.com/comunidad/imagenes-en-markdown/ "Imágenes en Markdown") 
-1. 🎬 [Animaciones](https://platzi.com/comunidad/animaciones-en-markdown/ "Animaciones en Markdown") 
-1. 🍕 [Emojis](https://platzi.com/comunidad/emojis-en-markdown/ "Emojis en Markdown") 
-1. 🆎 [Variables](https://platzi.com/comunidad/variables-en-markdown/ "Variables en Markdown") 
-1. 🔲 [Botones](https://platzi.com/comunidad/botones-en-markdown/ "Botones en Markdown") 
-1. 🌈 [Colores](https://platzi.com/comunidad/colores-en-markdown/ "Colores en Markdown") 
-1. ☑️ [Listas y Tablas](https://platzi.com/comunidad/listas-y-tablas-en-markdown/ "Listas y Tablas en Markdown") 
-1. 📺 [Videos de Youtube y Vimeo](https://platzi.com/comunidad/videos-de-youtube-y-vimeo-en-markdown/ "Videos de Youtube y Vimeo en Markdown") 
-1. 🔣 [ASCII Art](https://platzi.com/comunidad/ascii-art-en-markdown/ "ASCII Art en Markdown") 
-1. ➗ [Bonus: Fórmulas matemáticas](https://platzi.com/comunidad/bonus-formulas-matematicas-en-markdown "Bonus: Fórmulas matemáticas en Markdown") 
-
-
 
 ==«==
 ---
