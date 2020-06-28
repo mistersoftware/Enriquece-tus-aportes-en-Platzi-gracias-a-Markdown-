@@ -1,7 +1,6 @@
 
-
+|---| **Más usados** |---|
 | :rocket: `:rocket:` | :smile: `:smile:` | :laughing: `:laughing:` |
-|---|---|---|
 | :blush: `:blush:` | :smiley: `:smiley:` | :relaxed: `:relaxed:` |
 | :smirk: `:smirk:` | :heart_eyes: `:heart_eyes:` | :kissing_heart: `:kissing_heart:` |
 | :kissing_closed_eyes: `:kissing_closed_eyes:` | :flushed: `:flushed:` | :relieved: `:relieved:` |
@@ -62,7 +61,7 @@
 | :ear: `:ear:` | :eyes: `:eyes:` | :nose: `:nose:` |
 | :tongue: `:tongue:` | :love_letter: `:love_letter:` | :bust_in_silhouette: `:bust_in_silhouette:` |
 | :busts_in_silhouette: `:busts_in_silhouette:` | :speech_balloon: `:speech_balloon:` | :thought_balloon: `:thought_balloon:` |
-|  | **Nature** |  |
+|  | **Naturaleza** |  |
 | :sunny: `:sunny:` | :umbrella: `:umbrella:` | :cloud: `:cloud:` |
 | :snowflake: `:snowflake:` | :snowman: `:snowman:` | :zap: `:zap:` |
 | :cyclone: `:cyclone:` | :foggy: `:foggy:` | :ocean: `:ocean:` |
