@@ -45,7 +45,9 @@ Una de las grandes ventajas de este editor es una extensibilidad y adaptabilidad
 @[vimeo](427943407|https://vimeo.com/427943407/) @[youtube]( ZYmIUiK8ZQI|https://www.youtube.com/watch?v=ZYmIUiK8ZQI)
 
 
-Markdown es utilizado para casi todos los mecanismos de participación y comunicación en Platzi, A continuación encuentras un breve resumen de ellos 
+Markdown es utilizado para casi todos los mecanismos de participación y comunicación en Platzi, excepto en los marcadores, ni en la descripción de tus proyectos de tu perfil para [Platzi Connect](https://platzi.com/empleos/), a continuación un breve resumen
+==«==
+---
 
 * **Los comentarios se clasifican en preguntas, aportes y respuestas**: cuando estás viendo una clase y realizas un comentario, ese comentario queda enlazado a la clase.  
     * **Los aportes** son los comentarios de cada video o clase (no todas son en video), los cuales no son preguntas.
@@ -56,18 +58,13 @@ Markdown es utilizado para casi todos los mecanismos de participación y comunic
 * **Mensajes directos** pueden ser enviados entre estudiantes que han decidido no poner en privado su perfil.
 * También puedes participar en el **Blog Oficial** enviando un correo a team@platzi.com donde ellos te indicaran los pasos a seguir.
 
-==«==
----
 
-
-> _" No podrás utilizar Markdown en los marcadores, ni en la descripción de tus proyectos de tu perfil para [Platzi Connect](https://platzi.com/empleos/). **Ten cuidado especial con los marcadores, pues si los usas como un indice para el video, asegurate que son privados**, pues al ponerlos publicos se copian automaticamente en los comentarios de la clase. "_ 
-
-
-==»==
----
+Muy bien, ya sabes donde podrás utilizar Markdown, ahora veamos como utilizarlo. 
 
 ==«==
 ---
+
+
 
 **_Continúa tu aprendizaje con:_**
 
