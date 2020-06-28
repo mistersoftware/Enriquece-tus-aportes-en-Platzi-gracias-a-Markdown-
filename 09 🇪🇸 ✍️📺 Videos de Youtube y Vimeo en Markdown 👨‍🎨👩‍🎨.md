@@ -218,6 +218,27 @@ Para este ejemplo hemos realizado la llamada al archivo json, el cual nos respon
 En la respuesta obtenemos los datos del id interno que en este caso es 519177743 y nos ofrece 3 tamaños de miniatura
 ---
 
+==«==
+---
+
+````
+[![][small]][urlVimeo]
+[![][medium]][urlVimeo]
+[![][large]][urlVimeo]
+
+[small]: https://i.vimeocdn.com/video/519177743_100x75.jpg "Small 100x75"
+[medium]: https://i.vimeocdn.com/video/519177743_200x150.jpg "Medium 200x150"
+[large]: https://i.vimeocdn.com/video/519177743_640.jpg "Large 640"
+[urlVimeo]: https://vimeo.com/128154222/ "Vimeo"
+````
+
+
+
+
+
+==» El Código anterior producirá:==
+---
+
 [![][small]][urlVimeo]
 [![][medium]][urlVimeo]
 [![][large]][urlVimeo]
@@ -227,39 +248,7 @@ En la respuesta obtenemos los datos del id interno que en este caso es 519177743
 [large]: https://i.vimeocdn.com/video/519177743_640.jpg "Large 640"
 [urlVimeo]: https://vimeo.com/128154222/ "Vimeo"
 
-==«==
----
 
-```
-    "thumbnail_small": "https:\\/\\/i.vimeocdn.com\\/video\\/519177743_100x75.jpg",
-    "thumbnail_medium": "https:\\/\\/i.vimeocdn.com\\/video\\/519177743_200x150.jpg",
-    "thumbnail_large": "https:\\/\\/i.vimeocdn.com\\/video\\/519177743_640.jpg",
-
-```
-
-
-
-==» El Código anterior producirá:==
----
-
-
-[background]: https://i1.ytimg.com/vi/ZYmIUiK8ZQI/0.jpg "background"
-[start]: https://i1.ytimg.com/vi/ZYmIUiK8ZQI/1.jpg
-[middle]: https://i1.ytimg.com/vi/ZYmIUiK8ZQI/2.jpg
-[end]: https://i1.ytimg.com/vi/ZYmIUiK8ZQI/3.jpg
-[hqdefault]: https://i1.ytimg.com/vi/vi/ZYmIUiK8ZQI/sddefault.jpg
-[mqdefault]: https://i1.ytimg.com/vi/vi/ZYmIUiK8ZQI/mqdefault.jpg
-[default]: https://i1.ytimg.com/vi/vi/ZYmIUiK8ZQI/default.jpg
-[urlvideo]: https://www.youtube.com/watch?v=ZYmIUiK8ZQI "Titulo del video"
-
-[![x][background]][urlvideo]
-[![x][start]][urlvideo]
-[![x][middle]][urlvideo]
-[![x][end]][urlvideo]
-[![x][hqdefault]][urlvideo]
-[![x][mqdefault]][urlvideo]
-[![x][default]][urlvideo]
-````
 
 
 ==«==
