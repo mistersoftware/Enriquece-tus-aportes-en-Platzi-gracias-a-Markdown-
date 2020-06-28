@@ -12,10 +12,54 @@ _Anterior:_ ⏪ [_Listas y Tablas en Markdown_](https://platzi.com/comunidad/lis
 ==»==
 ---
 
+## 📺 Incrustar videos de YouTube en Platzi 
+
+Para incrustar o insertar videos, es decir, que se puedan reproducir allí mismo sin que el lector deba ir a otra página, deberemos utilizar la siguiente sintaxis:
+
+==«==
+---
+
+`@[youtube]( ZYmIUiK8ZQI|https://www.youtube.com/watch?v=ZYmIUiK8ZQI)`
+
+
+
+==» El código anterior producirá:»==
+---
+
+  @[youtube]( ZYmIUiK8ZQI|https://www.youtube.com/watch?v=ZYmIUiK8ZQI)
+
+
+---
+
+Para Vimeo funciona de igual manera. (Esta etiqueta ha sido solo ha sido probada en publicaciones de Platzi)
+
+
+
+## Incrustar videos de Vimeo en Platzi 
+
+==«==
+---
+
+`@[vimeo](427943407|https://vimeo.com/427943407/)`
+
+
+
+==» El código anterior producirá: »==
+---
+
+
+
+@[vimeo](128154222|https://vimeo.com/128154222/)
+
+Para Vimeo funciona de igual manera. (Esta etiqueta ha sido solo ha sido probada en publicaciones de Platzi)
+
+
 
 ## Enlazar video en Markdown (funciona en GitHub)
 
 Valga la aclaración que con este método **no es necesario descargar la thumbnail**, pues la etiqueta está escrita para que la tome automáticamente de la API de Youtube.
+
+
 
 
 ## Youtube API
@@ -78,55 +122,48 @@ Valga la aclaración que con este método **no es necesario descargar la thumbna
 [![x][default]][urlvideo]
 
 
+
 ## Vimeo API
 
-`[http://vimeo.com/api/v2/video/video_id.output](http://vimeo.com/api/v2/video/video_id.output)`
-
-> Para obtener datos de un video, se debe usar alguno de los enlaces, el de tu preferencia, 
-> 
-> [http://vimeo.com/api/v2/video/128154222.json](http://vimeo.com/api/v2/video/128154222.json)
-> [http://vimeo.com/api/v2/video/128154222.php](http://vimeo.com/api/v2/video/128154222.php)
-> [http://vimeo.com/api/v2/video/128154222.xml](http://vimeo.com/api/v2/video/128154222.xml)
-> 
-> **video_id** The ID of the video you want information for.
-> 
-> **output** Specify the output type. We currently offer JSON, PHP, and XML formats.
-
-Para este ejemplo hemos realizado la llamada al archivo json, el cual nos responde
+Lo primero que debemos observar es la ID publica 128154222 y con ella realizamos el llamado a la api para obtener los datos del video, puedes elegir el formato que gustes
+ 
+ [http://vimeo.com/api/v2/video/128154222.json](http://vimeo.com/api/v2/video/128154222.json)
+ [http://vimeo.com/api/v2/video/128154222.php](http://vimeo.com/api/v2/video/128154222.php)
+ [http://vimeo.com/api/v2/video/128154222.xml](http://vimeo.com/api/v2/video/128154222.xml)
+ 
+Para este ejemplo hemos realizado la llamada al archivo json, y luego de pasarlo por [jsonbeautifier](https://jsonbeautifier.org) obtenemos
 ---
-````
-[
-  {
-    "id": 128154222,
-    "title": "Lytro Test Video",
-    "description": "A sample video create from a single still photo snapped with the Lytro Illum. Read our full review of the Illum here: http:\\/\\/bit.ly\\/1EXnxU8  \\u00a9 David Pati\\u00f1o",
-    "url": "https:\\/\\/vimeo.com\\/128154222",
-    "upload_date": "2015-05-18 11:22:34",
-    "thumbnail_small": "https:\\/\\/i.vimeocdn.com\\/video\\/519177743_100x75.jpg",
-    "thumbnail_medium": "https:\\/\\/i.vimeocdn.com\\/video\\/519177743_200x150.jpg",
-    "thumbnail_large": "https:\\/\\/i.vimeocdn.com\\/video\\/519177743_640.jpg",
-    "user_id": 5862464,
-    "user_name": "PDNOnline",
-    "user_url": "https:\\/\\/vimeo.com\\/user5862464",
-    "user_portrait_small": "https:\\/\\/i.vimeocdn.com\\/portrait\\/5664890_30x30",
-    "user_portrait_medium": "https:\\/\\/i.vimeocdn.com\\/portrait\\/5664890_75x75",
-    "user_portrait_large": "https:\\/\\/i.vimeocdn.com\\/portrait\\/5664890_100x100",
-    "user_portrait_huge": "https:\\/\\/i.vimeocdn.com\\/portrait\\/5664890_300x300",
-    "stats_number_of_likes": 3,
-    "stats_number_of_plays": 843,
-    "stats_number_of_comments": 0,
-    "duration": 10,
-    "width": 1056,
-    "height": 720,
-    "tags": "Lytro, photography, cameras, technology",
-    "embed_privacy": "anywhere"
-  }
-]
-````
-
-
-En la respuesta obtenemos los datos del id interno que en este caso es 519177743 y nos ofrece 3 tamaños de miniatura
----
+>````
+>[
+ > {
+  >  "id": 128154222,
+   > "title": "Lytro Test Video",
+   > "description": "A sample video create from a single still photo snapped with the Lytro Illum. Read our full review of the Illum here: http:\\/\\/bit.ly\\/1EXnxU8  \\u00a9 David Pati\\u00f1o",
+>    "url": "https:\\/\\/vimeo.com\\/128154222",
+>    "upload_date": "2015-05-18 11:22:34",
+>   "thumbnail_small": "https:\\/\\/i.vimeocdn.com\\/video\\/519177743_100x75.jpg",
+>    "thumbnail_medium": "https:\\/\\/i.vimeocdn.com\\/video\\/519177743_200x150.jpg",
+>    "thumbnail_large": "https:\\/\\/i.vimeocdn.com\\/video\\/519177743_640.jpg",
+>    "user_id": 5862464,
+>    "user_name": "PDNOnline",
+>   "user_url": "https:\\/\\/vimeo.com\\/user5862464",
+ >  "user_portrait_small": "https:\\/\\/i.vimeocdn.com\\/portrait\\/5664890_30x30",
+>    "user_portrait_medium": "https:\\/\\/i.vimeocdn.com\\/portrait\\/5664890_75x75",
+ >   "user_portrait_large": "https:\\/\\/i.vimeocdn.com\\/portrait\\/5664890_100x100",
+ >   "user_portrait_huge": "https:\\/\\/i.vimeocdn.com\\/portrait\\/5664890_300x300",
+  >  "stats_number_of_likes": 3,
+   > "stats_number_of_plays": 843,
+    >"stats_number_of_comments": 0,
+    >"duration": 10,
+    >"width": 1056,
+    >"height": 720,
+    >"tags": "Lytro, photography, cameras, technology",
+    >"embed_privacy": "anywhere"
+  >}
+>]
+>````
+>
+> **En la respuesta obtenemos los datos del id interno 519177743 y nos ofrece 3 tamaños de miniatura. Es necesario que el video no sea privado**
 
 ==«==
 ---
@@ -141,6 +178,8 @@ En la respuesta obtenemos los datos del id interno que en este caso es 519177743
 [large]: https://i.vimeocdn.com/video/519177743_640.jpg "Large 640"
 [urlVimeo]: https://vimeo.com/128154222/ "Vimeo"
 ````
+
+
 
 
 
@@ -156,45 +195,6 @@ En la respuesta obtenemos los datos del id interno que en este caso es 519177743
 [large]: https://i.vimeocdn.com/video/519177743_640.jpg "Large 640"
 [urlVimeo]: https://vimeo.com/128154222/ "Vimeo"
 
-
-## 📺 Incrustar videos de YouTube y Vimeo en Platzi 
-
-Para incrustar o insertar videos, es decir, que se puedan reproducir allí mismo sin que el lector deba ir a otra página, deberemos utilizar la siguiente sintaxis:
-
-==«==
----
-
-`@[youtube]( ZYmIUiK8ZQI|https://www.youtube.com/watch?v=ZYmIUiK8ZQI)`
-
-
-
-==» El código anterior producirá:»==
----
-
-  @[youtube]( ZYmIUiK8ZQI|https://www.youtube.com/watch?v=ZYmIUiK8ZQI)
-
-
----
-
-Para Vimeo funciona de igual manera. (Esta etiqueta ha sido solo ha sido probada en publicaciones de Platzi)
-
-
-
-## Incrustar videos de Vimeo en Platzi 
-
-==«==
----
-
-`@[vimeo](427943407|https://vimeo.com/427943407/)`
-
-
-
-==» El código anterior producirá: »==
----
-
-
-
-@[vimeo](128154222|https://vimeo.com/128154222/)
 
 
 
