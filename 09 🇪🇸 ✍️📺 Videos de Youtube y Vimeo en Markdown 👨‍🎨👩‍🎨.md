@@ -88,13 +88,7 @@ Valga la aclaración que con este método **no es necesario descargar la thumbna
 [urlYoutube]: https://www.youtube.com/watch?v=ZYmIUiK8ZQI "Titulo del video"
 
 
-[![x][start]][urlYoutube]
-[![x][middle]][urlYoutube]
-[![x][end]][urlYoutube]
-[![x][default]][urlYoutube]
-[![x][mqdefault]][urlYoutube]
-[![x][hqdefault]][urlYoutube]
-[![x][background]][urlYoutube]
+[![x][start]][urlYoutube] [![x][middle]][urlYoutube] [![x][end]][urlYoutube] [![x][default]][urlYoutube] [![x][mqdefault]][urlYoutube] [![x][hqdefault]][urlYoutube] [![x][background]][urlYoutube]
 ````
 
 
@@ -112,14 +106,8 @@ Valga la aclaración que con este método **no es necesario descargar la thumbna
 [default]: https://i1.ytimg.com/vi/ZYmIUiK8ZQI/default.jpg "default"
 [urlYoutube]: https://www.youtube.com/watch?v=ZYmIUiK8ZQI "Titulo del video"
 
-[![x][start]][urlYoutube]
-[![x][middle]][urlYoutube]
-[![x][end]][urlYoutube]
-[![x][default]][urlYoutube]
-[![x][mqdefault]][urlYoutube]
-[![x][hqdefault]][urlYoutube]
-[![x][background]][urlYoutube]
 
+[![x][start]][urlYoutube] [![x][middle]][urlYoutube] [![x][end]][urlYoutube] [![x][default]][urlYoutube] [![x][mqdefault]][urlYoutube] [![x][hqdefault]][urlYoutube] [![x][background]][urlYoutube]
 
 
 ## Vimeo API
