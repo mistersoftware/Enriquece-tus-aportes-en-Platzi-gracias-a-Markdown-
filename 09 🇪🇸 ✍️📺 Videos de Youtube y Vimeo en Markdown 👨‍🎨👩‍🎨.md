@@ -133,33 +133,34 @@ Lo primero que debemos observar es la ID publica 128154222 y con ella realizamos
  
 Para este ejemplo hemos realizado la llamada al archivo json, y luego de pasarlo por [jsonbeautifier](https://jsonbeautifier.org) obtenemos
 ---
+
 >````
 >[
- > {
-  >  "id": 128154222,
-   > "title": "Lytro Test Video",
-   > "description": "A sample video create from a single still photo snapped with the Lytro Illum. Read our full review of the Illum here: http:\\/\\/bit.ly\\/1EXnxU8  \\u00a9 David Pati\\u00f1o",
->    "url": "https:\\/\\/vimeo.com\\/128154222",
+>  {
+>    "id": 128154222,
+>    "title": "Lytro Test Video",
+>    "description": "A sample video create from a single still photo snapped with the Lytro Illum. Read our full review of the Illum here: http://bit.ly/1EXnxU8  © >David Patiño",
+>    "url": "https://vimeo.com/128154222",
 >    "upload_date": "2015-05-18 11:22:34",
->   "thumbnail_small": "https:\\/\\/i.vimeocdn.com\\/video\\/519177743_100x75.jpg",
->    "thumbnail_medium": "https:\\/\\/i.vimeocdn.com\\/video\\/519177743_200x150.jpg",
->    "thumbnail_large": "https:\\/\\/i.vimeocdn.com\\/video\\/519177743_640.jpg",
+>    "thumbnail_small": "http://i.vimeocdn.com/video/519177743_100x75.jpg",
+>    "thumbnail_medium": "http://i.vimeocdn.com/video/519177743_200x150.jpg",
+>    "thumbnail_large": "http://i.vimeocdn.com/video/519177743_640.jpg",
 >    "user_id": 5862464,
 >    "user_name": "PDNOnline",
->   "user_url": "https:\\/\\/vimeo.com\\/user5862464",
- >  "user_portrait_small": "https:\\/\\/i.vimeocdn.com\\/portrait\\/5664890_30x30",
->    "user_portrait_medium": "https:\\/\\/i.vimeocdn.com\\/portrait\\/5664890_75x75",
- >   "user_portrait_large": "https:\\/\\/i.vimeocdn.com\\/portrait\\/5664890_100x100",
- >   "user_portrait_huge": "https:\\/\\/i.vimeocdn.com\\/portrait\\/5664890_300x300",
-  >  "stats_number_of_likes": 3,
-   > "stats_number_of_plays": 843,
-    >"stats_number_of_comments": 0,
-    >"duration": 10,
-    >"width": 1056,
-    >"height": 720,
-    >"tags": "Lytro, photography, cameras, technology",
-    >"embed_privacy": "anywhere"
-  >}
+>    "user_url": "https://vimeo.com/user5862464",
+>    "user_portrait_small": "http://i.vimeocdn.com/portrait/5664890_30x30",
+>    "user_portrait_medium": "http://i.vimeocdn.com/portrait/5664890_75x75",
+>    "user_portrait_large": "http://i.vimeocdn.com/portrait/5664890_100x100",
+>    "user_portrait_huge": "http://i.vimeocdn.com/portrait/5664890_300x300",
+>    "stats_number_of_likes": 3,
+>    "stats_number_of_plays": 843,
+>    "stats_number_of_comments": 0,
+>    "duration": 10,
+>    "width": 1056,
+>    "height": 720,
+>    "tags": "Lytro, photography, cameras, technology",
+>    "embed_privacy": "anywhere"
+>  }
 >]
 >````
 >
@@ -178,9 +179,6 @@ Para este ejemplo hemos realizado la llamada al archivo json, y luego de pasarlo
 [large]: https://i.vimeocdn.com/video/519177743_640.jpg "Large 640"
 [urlVimeo]: https://vimeo.com/128154222/ "Vimeo"
 ````
-
-
-
 
 
 ==» El Código anterior producirá:==
