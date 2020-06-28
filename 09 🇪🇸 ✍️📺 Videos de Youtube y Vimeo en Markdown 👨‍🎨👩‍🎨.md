@@ -12,54 +12,10 @@ _Anterior:_ ⏪ [_Listas y Tablas en Markdown_](https://platzi.com/comunidad/lis
 ==»==
 ---
 
-## 📺 Incrustar videos de YouTube en Platzi 
-
-Para incrustar o insertar videos, es decir, que se puedan reproducir allí mismo sin que el lector deba ir a otra página, deberemos utilizar la siguiente sintaxis:
-
-==«==
----
-
-`@[youtube]( ZYmIUiK8ZQI|https://www.youtube.com/watch?v=ZYmIUiK8ZQI)`
-
-
-
-==» El código anterior producirá:»==
----
-
-  @[youtube]( ZYmIUiK8ZQI|https://www.youtube.com/watch?v=ZYmIUiK8ZQI)
-
-
----
-
-Para Vimeo funciona de igual manera. (Esta etiqueta ha sido solo ha sido probada en publicaciones de Platzi)
-
-
-
-## Incrustar videos de Vimeo en Platzi 
-
-==«==
----
-
-`@[vimeo](427943407|https://vimeo.com/427943407/)`
-
-
-
-==» El código anterior producirá: »==
----
-
-
-
-@[vimeo](128154222|https://vimeo.com/128154222/)
-
-Para Vimeo funciona de igual manera. (Esta etiqueta ha sido solo ha sido probada en publicaciones de Platzi)
-
-
 
 ## Enlazar video en Markdown (funciona en GitHub)
 
 Valga la aclaración que con este método **no es necesario descargar la thumbnail**, pues la etiqueta está escrita para que la tome automáticamente de la API de Youtube.
-
-
 
 
 ## Youtube API
@@ -120,7 +76,6 @@ Valga la aclaración que con este método **no es necesario descargar la thumbna
 [![x][hqdefault]][urlvideo]
 [![x][mqdefault]][urlvideo]
 [![x][default]][urlvideo]
-
 
 
 ## Vimeo API
@@ -189,8 +144,6 @@ En la respuesta obtenemos los datos del id interno que en este caso es 519177743
 
 
 
-
-
 ==» El Código anterior producirá:==
 ---
 
@@ -203,6 +156,45 @@ En la respuesta obtenemos los datos del id interno que en este caso es 519177743
 [large]: https://i.vimeocdn.com/video/519177743_640.jpg "Large 640"
 [urlVimeo]: https://vimeo.com/128154222/ "Vimeo"
 
+
+## 📺 Incrustar videos de YouTube y Vimeo en Platzi 
+
+Para incrustar o insertar videos, es decir, que se puedan reproducir allí mismo sin que el lector deba ir a otra página, deberemos utilizar la siguiente sintaxis:
+
+==«==
+---
+
+`@[youtube]( ZYmIUiK8ZQI|https://www.youtube.com/watch?v=ZYmIUiK8ZQI)`
+
+
+
+==» El código anterior producirá:»==
+---
+
+  @[youtube]( ZYmIUiK8ZQI|https://www.youtube.com/watch?v=ZYmIUiK8ZQI)
+
+
+---
+
+Para Vimeo funciona de igual manera. (Esta etiqueta ha sido solo ha sido probada en publicaciones de Platzi)
+
+
+
+## Incrustar videos de Vimeo en Platzi 
+
+==«==
+---
+
+`@[vimeo](427943407|https://vimeo.com/427943407/)`
+
+
+
+==» El código anterior producirá: »==
+---
+
+
+
+@[vimeo](128154222|https://vimeo.com/128154222/)
 
 
 
