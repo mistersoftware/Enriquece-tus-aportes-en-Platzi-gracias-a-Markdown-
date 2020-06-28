@@ -31,7 +31,7 @@ Para incrustar o insertar videos, es decir, que se puedan reproducir allí mismo
 
 ---
 
-Para Vimeo funciona de igual manera. (Esta etiqueta ha sido solo ha sido probada en publicaciones de Platzi)
+
 
 
 
@@ -48,10 +48,6 @@ Para Vimeo funciona de igual manera. (Esta etiqueta ha sido solo ha sido probada
 
 
 @[vimeo](128154222|https://vimeo.com/128154222/)
-
-
-Para Vimeo funciona de igual manera. (Esta etiqueta ha sido solo ha sido probada en publicaciones de Platzi)
-
 
 
 ## Enlazar video en Markdown (funciona en GitHub)
