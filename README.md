@@ -15,7 +15,7 @@ Puedes usar Markdown en Slack para [comunicarte con tu equipo de trabajo](https:
 ---
 
 
-Una de las grandes ventajas de este editor es una extensibilidad y adaptabilidad, por ende, al momento en que estés leyendo estas líneas, es posible que sus funcionalidades hayan sido extendidas o modificadas. Markdown es muy utilizado en la industria de la tecnología por su versatilidad y sencillez. 
+Una de las grandes ventajas de este editor es una extensibilidad y adaptabilidad, por ende, al momento en que estés leyendo estas líneas, es posible que sus funcionalidades hayan sido extendidas o modificadas. Markdown es muy utilizado en la industria de la tecnología por su versatilidad y sencillez. A continuación encuentras el índice de contenidos de esta serie que busca sacar el maximo provecho de Markdown tanto en Platzi como en GitHub.
 
 
 ## Índice de contenidos
@@ -36,7 +36,7 @@ Una de las grandes ventajas de este editor es una extensibilidad y adaptabilidad
 
 ## ¿Qué Aprenderemos?
 
- Con todo listo, manos a la obra, aprenderemos como controlar la visualización del documento; ==resaltando== palabras en **negrita** o _cursiva_, [enlaces](), agregando 👨‍🚀Emojis🚀,  [![url2](https://via.placeholder.com/75x25/98ca3f/444?text=Botones "Código Fuente del artículo Imágenes")](https://drive.google.com/file/d/1x6TACRmABiGQdZbztIdMi73wMINwOta5/view?usp=sharing), creando listas o tablas. Aprenderemos como utilizar variables para ahorrarnos mucho trabajo y un par de trucos extra para traer color a nuestras publicaciones y para finalizar, veremos como incluir expresiones matemáticas **y obviamente como insertar imágenes, animaciones y videos.** 
+Aprenderemos como controlar la visualización del documento; ==resaltando== palabras en **negrita** o _cursiva_, [enlaces](), agregando 👨‍🚀Emojis🚀,  [![url2](https://via.placeholder.com/75x25/98ca3f/444?text=Botones "Código Fuente del artículo Imágenes")](https://drive.google.com/file/d/1x6TACRmABiGQdZbztIdMi73wMINwOta5/view?usp=sharing), creando listas o tablas. Aprenderemos como utilizar variables para ahorrarnos mucho trabajo y un par de trucos extra para traer color a nuestras publicaciones y para finalizar, veremos como incluir expresiones matemáticas **y obviamente como insertar imágenes, animaciones y videos.** 
 
 
 [![Casco astronauta animado](https://i.imgur.com/b1kbwbR.gif)](https://platzi.com/cursos "Nunca pares de aprender")
