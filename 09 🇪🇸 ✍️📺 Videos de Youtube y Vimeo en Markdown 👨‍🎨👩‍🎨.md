@@ -31,8 +31,6 @@ Para incrustar o insertar videos, es decir, que se puedan reproducir allí mismo
 
 ---
 
-Para Vimeo funciona de igual manera. (Esta etiqueta ha sido solo ha sido probada en publicaciones de Platzi)
-
 
 
 ## Incrustar videos de Vimeo en Platzi 
