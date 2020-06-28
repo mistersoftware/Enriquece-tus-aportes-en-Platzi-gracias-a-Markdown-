@@ -31,6 +31,8 @@ Para incrustar o insertar videos, es decir, que se puedan reproducir allí mismo
 
 ---
 
+Para Vimeo funciona de igual manera. (Esta etiqueta ha sido solo ha sido probada en publicaciones de Platzi)
+
 
 
 ## Incrustar videos de Vimeo en Platzi 
@@ -127,9 +129,9 @@ Valga la aclaración que con este método **no es necesario descargar la thumbna
 
 > Para obtener datos de un video, se debe usar alguno de los enlaces, el de tu preferencia, 
 > 
-> [http://vimeo.com/api/v2/video/ZYmIUiK8ZQI.json](http://vimeo.com/api/v2/video/ZYmIUiK8ZQI.output)
-> [http://vimeo.com/api/v2/video/ZYmIUiK8ZQI.php](http://vimeo.com/api/v2/video/ZYmIUiK8ZQI.output)
-> [http://vimeo.com/api/v2/video/ZYmIUiK8ZQI.xml](http://vimeo.com/api/v2/video/ZYmIUiK8ZQI.output)
+> [http://vimeo.com/api/v2/video/128154222.json](http://vimeo.com/api/v2/video/128154222.json)
+> [http://vimeo.com/api/v2/video/128154222.php](http://vimeo.com/api/v2/video/128154222.php)
+> [http://vimeo.com/api/v2/video/128154222.xml](http://vimeo.com/api/v2/video/128154222.xml)
 > 
 > **video_id** The ID of the video you want information for.
 > 
