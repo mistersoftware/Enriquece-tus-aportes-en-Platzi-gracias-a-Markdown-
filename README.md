@@ -46,6 +46,7 @@ Aprenderemos como controlar la visualización del documento; ==resaltando== pala
 
 
 Markdown es utilizado para casi todos los mecanismos de participación y comunicación en Platzi, excepto en los marcadores, ni en la descripción de tus proyectos de tu perfil para [Platzi Connect](https://platzi.com/empleos/), a continuación un breve resumen
+
 ==«==
 ---
 
