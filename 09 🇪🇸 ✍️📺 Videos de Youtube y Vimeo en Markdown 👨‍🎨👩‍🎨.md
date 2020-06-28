@@ -76,6 +76,7 @@ Valga la aclaración que con este método **no es necesario descargar la thumbna
 
 
 https://img.youtube.com/vi/<insert-youtube-video-id-here>/hqdefault.jpg
+ 
 ==«==
 ---
 
