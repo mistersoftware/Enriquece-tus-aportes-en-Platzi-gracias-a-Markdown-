@@ -80,9 +80,10 @@ Fuentes:
 ---
 
 1. [Markdown Guide](https://ia.net/writer/support/general/markdown-guide) 
-2. [5 Markdown Tricks for GitHub](https://grantwinney.com/cool-markdown-tricks-for-github/)
-3. [How to Write Fas ter, Better & Longer: The Ultimate Guide to Markdown](https://ghost.org/changelog/markdown/)
-4. [Stackoverflow Vimeo API](https://stackoverflow.com/questions/1361149/get-img-thumbnails-from-vimeo)
+1. [5 Markdown Tricks for GitHub](https://grantwinney.com/cool-markdown-tricks-for-github/)
+1. [How to Write Fas ter, Better & Longer: The Ultimate Guide to Markdown](https://ghost.org/changelog/markdown/)
+1. [Vimeo API](https://developer.vimeo.com/api/common-formats)
+1. [Vimeo API](https://developer.vimeo.com/api/common-formats)
 
 
 ==«==
