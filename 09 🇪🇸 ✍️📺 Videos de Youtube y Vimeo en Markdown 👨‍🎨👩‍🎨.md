@@ -74,7 +74,6 @@ Valga la aclaración que con este método **no es necesario descargar la thumbna
 | Normal Quality      | 120x90    | https://i1.ytimg.com/vi/«ID»/default.jpg 
 
 
-https://img.youtube.com/vi/<insert-youtube-video-id-here>/hqdefault.jpg
  
 ==«==
 ---
