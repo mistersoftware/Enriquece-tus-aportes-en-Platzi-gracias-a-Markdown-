@@ -75,26 +75,26 @@ Valga la aclaración que con este método **no es necesario descargar la thumbna
 | Normal Quality      | 120x90    | https://i1.ytimg.com/vi/«VIDEO ID»/default.jpg 
 
 
-
+https://img.youtube.com/vi/<insert-youtube-video-id-here>/hqdefault.jpg
 ==«==
 ---
 
 ````[background]: https://i1.ytimg.com/vi/ZYmIUiK8ZQI/0.jpg "background"
-[start]: https://i1.ytimg.com/vi/ZYmIUiK8ZQI/1.jpg
-[middle]: https://i1.ytimg.com/vi/ZYmIUiK8ZQI/2.jpg
-[end]: https://i1.ytimg.com/vi/ZYmIUiK8ZQI/3.jpg
-[hqdefault]: https://i1.ytimg.com/vi/vi/ZYmIUiK8ZQI/sddefault.jpg
-[mqdefault]: https://i1.ytimg.com/vi/vi/ZYmIUiK8ZQI/mqdefault.jpg
-[default]: https://i1.ytimg.com/vi/vi/ZYmIUiK8ZQI/default.jpg
-[video]: https://www.youtube.com/watch?v=ZYmIUiK8ZQI "Titulo del video"
+[start]: https://i1.ytimg.com/vi/ZYmIUiK8ZQI/1.jpg "start"
+[middle]: https://i1.ytimg.com/vi/ZYmIUiK8ZQI/2.jpg "middle"
+[end]: https://i1.ytimg.com/vi/ZYmIUiK8ZQI/3.jpg "end"
+[hqdefault]: https://i1.ytimg.com/vi/vi/ZYmIUiK8ZQI/hqdefault.jpg "hqdefault"
+[mqdefault]: https://i1.ytimg.com/vi/vi/ZYmIUiK8ZQI/mqdefault.jpg "mqdefault"
+[default]: https://i1.ytimg.com/vi/vi/ZYmIUiK8ZQI/default.jpg "default"
+[urlvimeo]: https://www.youtube.com/watch?v=ZYmIUiK8ZQI "Titulo del video"
 
-[![x][background]][urlvideo]
-[![x][start]][urlvideo]
-[![x][middle]][urlvideo]
-[![x][end]][urlvideo]
-[![x][hqdefault]][urlvideo]
-[![x][mqdefault]][urlvideo]
-[![x][default]][urlvideo]
+[![x][background]][urlvimeo]
+[![x][start]][urlvimeo]
+[![x][middle]][urlvimeo]
+[![x][end]][urlvimeo]
+[![x][hqdefault]][urlvimeo]
+[![x][mqdefault]][urlvimeo]
+[![x][default]][urlvimeo]
 ````
 
 
@@ -103,23 +103,22 @@ Valga la aclaración que con este método **no es necesario descargar la thumbna
 ==» El Código anterior producirá:==
 ---
 
-
 [background]: https://i1.ytimg.com/vi/ZYmIUiK8ZQI/0.jpg "background"
 [start]: https://i1.ytimg.com/vi/ZYmIUiK8ZQI/1.jpg "start"
 [middle]: https://i1.ytimg.com/vi/ZYmIUiK8ZQI/2.jpg "middle"
 [end]: https://i1.ytimg.com/vi/ZYmIUiK8ZQI/3.jpg "end"
-[hqdefault]: https://i1.ytimg.com/vi/vi/ZYmIUiK8ZQI/sddefault.jpg "hqdefault"
+[hqdefault]: https://i1.ytimg.com/vi/vi/ZYmIUiK8ZQI/hqdefault.jpg "hqdefault"
 [mqdefault]: https://i1.ytimg.com/vi/vi/ZYmIUiK8ZQI/mqdefault.jpg "mqdefault"
 [default]: https://i1.ytimg.com/vi/vi/ZYmIUiK8ZQI/default.jpg "default"
-[urlvideo]: https://www.youtube.com/watch?v=ZYmIUiK8ZQI "Titulo del video"
+[urlvimeo]: https://www.youtube.com/watch?v=ZYmIUiK8ZQI "Titulo del video"
 
-[![x][background]][urlvideo]
-[![x][start]][urlvideo]
-[![x][middle]][urlvideo]
-[![x][end]][urlvideo]
-[![x][hqdefault]][urlvideo]
-[![x][mqdefault]][urlvideo]
-[![x][default]][urlvideo]
+[![x][background]][urlvimeo]
+[![x][start]][urlvimeo]
+[![x][middle]][urlvimeo]
+[![x][end]][urlvimeo]
+[![x][hqdefault]][urlvimeo]
+[![x][mqdefault]][urlvimeo]
+[![x][default]][urlvimeo]
 
 
 
