@@ -59,52 +59,7 @@ Para Vimeo funciona de igual manera. (Esta etiqueta ha sido solo ha sido probada
 
 Valga la aclaración que con este método **no es necesario descargar la thumbnail**, pues la etiqueta está escrita para que la tome automáticamente de la API de Youtube.
 
-==«==
----
 
- `[![Thumbnail tomada de youtube](http://img.youtube.com/vi/ZYmIUiK8ZQI/0.jpg)](https://www.youtube.com/watch?v=ZYmIUiK8ZQI "Titulo del video")`
- 
- 
-==» El código anterior producirá: »==
----
-
-
- [![YouTube tomada de youtube](http://img.youtube.com/vi/ZYmIUiK8ZQI/0.jpg)](https://www.youtube.com/watch?v=ZYmIUiK8ZQI "Titulo del video")
-
-
-También puedes recrear el mismo efecto con una [Imagen](https://platzi.com/comunidad/imagenes-en-markdown/ "Imágenes en Markdown")  con enlace, por ejemplo cuando la fuente del video es diferente a YouTube, **pero en ese caso obviamente deberás proporcionar la imagen**
-
-==«==
----
-O también puedes usar la sintaxis de las variables si es más claro para ti. Si deseas puedes elegir una miniatura pequeña, cambiando el 0 por 1, 2, o 3 en la urlminiatura.
-
-````
-[![][imgYouTube]][urlYouTube]
-
-[imgYouTube]: http://img.youtube.com/vi/ZYmIUiK8ZQI/2.jpg
-[urlYouTube]: https://www.youtube.com/watch?v=ZYmIUiK8ZQI "YouTube"
-
-
-[![][imgVimeo]][urlVimeo]
-
-[imgVimeo]: https://i.vimeocdn.com/video/519177743_200x150.jpg
-[urlVimeo]: https://vimeo.com/128154222/ "Vimeo"
-````
-
-
-
-==» El código anterior producira:==
----
-[![][imgYouTube]][urlYouTube]
-
-[imgYouTube]: http://img.youtube.com/vi/ZYmIUiK8ZQI/2.jpg
-[urlYouTube]: https://www.youtube.com/watch?v=ZYmIUiK8ZQI "YouTube"
-
-
-[![][imgVimeo]][urlVimeo]
-
-[imgVimeo]: https://i.vimeocdn.com/video/519177743_200x150.jpg
-[urlVimeo]: https://vimeo.com/128154222/ "Vimeo"
 
 
 ## Youtube API
