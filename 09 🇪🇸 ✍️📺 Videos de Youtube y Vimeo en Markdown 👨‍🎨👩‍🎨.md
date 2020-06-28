@@ -27,7 +27,8 @@ Para incrustar o insertar videos, es decir, que se puedan reproducir allí mismo
 ---
 
   @[youtube]( ZYmIUiK8ZQI|https://www.youtube.com/watch?v=ZYmIUiK8ZQI)
-
+![Imgur](https://i.imgur.com/X2TrK4G.jpg)
+[![Miniatura tomada de YouTube](http://img.youtube.com/vi/ZYmIUiK8ZQI/0.jpg)](http://www.youtube.com/watch?v=ZYmIUiK8ZQI "Titulo del video")
 
 ---
 
@@ -71,6 +72,26 @@ Valga la aclaración que con este método **no es necesario descargar la thumbna
 
 
 También puedes recrear el mismo efecto con una [Imagen](https://platzi.com/comunidad/imagenes-en-markdown/ "Imágenes en Markdown")  con enlace, por ejemplo cuando la fuente del video es diferente a YouTube, **pero en ese caso obviamente deberás proporcionar la imagen**
+
+==«==
+---
+O también puedes usar la sintaxis de las variables si es más claro para ti. Si deseas puedes elegir una miniatura pequeña, cambiando el 0 por 1, 2, o 3 en la urlminiatura.
+
+````
+[![tagminiatura][urlminiatura]][urlvideo])
+
+[urlminiatura]: http://img.youtube.com/vi/ZYmIUiK8ZQI/3.jpg
+[urlvideo]: https://www.youtube.com/watch?v=ZYmIUiK8ZQI "Titulo del video"
+````
+
+
+==» El código anterior producira:==
+---
+[![tagminiatura][urlminiatura]][urlvideo]
+
+[urlminiatura]: http://img.youtube.com/vi/ZYmIUiK8ZQI/3.jpg
+[urlvideo]: https://www.youtube.com/watch?v=ZYmIUiK8ZQI "Titulo del video"
+
 
 ==«==
 ---
