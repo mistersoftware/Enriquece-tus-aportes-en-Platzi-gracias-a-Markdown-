@@ -1,5 +1,5 @@
 
-|---| **Más usados** |---|
+|  | **Más usados** |  |
 |---| --- |---|
 | :rocket: `:rocket:` | :smile: `:smile:` | :laughing: `:laughing:` |
 | :blush: `:blush:` | :smiley: `:smiley:` | :relaxed: `:relaxed:` |
@@ -50,7 +50,7 @@
 | :haircut: `:haircut:` | :nail_care: `:nail_care:` | :boy: `:boy:` |
 | :girl: `:girl:` | :woman: `:woman:` | :man: `:man:` |
 | :baby: `:baby:` | :older_woman: `:older_woman:` | :older_man: `:older_man:` |
-| :person_with_blond_hair: `:person_with_blond_hair:` | :man_with_gua_pi_mao: `:man_with_gua_pi_mao:` | :man_with_turban: `:man_with_turban:` |
+|  | :man_with_gua_pi_mao: `:man_with_gua_pi_mao:` | :man_with_turban: `:man_with_turban:` |
 | :construction_worker: `:construction_worker:` | :cop: `:cop:` | :angel: `:angel:` |
 | :princess: `:princess:` | :smiley_cat: `:smiley_cat:` | :smile_cat: `:smile_cat:` |
 | :heart_eyes_cat: `:heart_eyes_cat:` | :kissing_cat: `:kissing_cat:` | :smirk_cat: `:smirk_cat:` |
