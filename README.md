@@ -9,7 +9,7 @@ Puedes usar Markdown en Slack para [comunicarte con tu equipo de trabajo](https:
 
 ==«==
 ---
-> _" ¿Alguna vez te ha pasado que tardas horas redactando algo, y al momento de publicarlo cambia totalmente su apariencia? En esta serie de publicaciones busco atacar este problema con las herramientas disponibles actualmente en Platzi. **Basicamente he probado de todo y en esta guia te dire que funciona y que no**.  Antes de continuar, te recomiendo dirigirte a [StackEdit](https://stackedit.io/app#), allí encontrarás  un editor en línea de Markdown donde puedes practicar lo que veremos y, ya que estás allí, incluso puedes enlazarlo con tu cuenta de Google Drive y ya tendrás un ecosistema listo para ayudarte a publicar. "_
+> _" ¿Alguna vez te ha pasado que tardas horas redactando algo, y al momento de publicarlo cambia totalmente su apariencia? En esta serie de publicaciones busco atacar este problema con las herramientas disponibles actualmente en Platzi. **Basicamente he probado de todo un poco y en esta guia te dire que funciona y que no**.  Antes de continuar, te recomiendo dirigirte a [StackEdit](https://stackedit.io/app#), allí encontrarás  un editor en línea de Markdown donde puedes practicar lo que veremos y, ya que estás allí, incluso puedes enlazarlo con tu cuenta de Google Drive y ya tendrás un ecosistema listo para ayudarte a publicar. "_
 
 ==»==
 ---
@@ -36,7 +36,7 @@ Una de las grandes ventajas de este editor es una extensibilidad y adaptabilidad
 
 ## ¿Qué Aprenderemos?
 
-Aprenderemos como controlar la visualización del documento; ==resaltando== palabras en **negrita** o _cursiva_, [enlaces](), agregando 👨‍🚀Emojis🚀,  [![url2](https://via.placeholder.com/75x16/98ca3f/444?text=Botones "Código Fuente del artículo Imágenes")](https://drive.google.com/file/d/1x6TACRmABiGQdZbztIdMi73wMINwOta5/view?usp=sharing), creando listas o tablas. Aprenderemos como utilizar variables para ahorrarnos mucho trabajo y un par de trucos extra para traer color a nuestras publicaciones y para finalizar, veremos como incluir expresiones matemáticas **y obviamente como insertar imágenes, animaciones y videos.** 
+Aprenderemos como controlar la visualización del documento; ==resaltando== palabras en **negrita** o _cursiva_, [enlaces](), agregando 👨‍🚀Emojis🚀,  [![url2](https://via.placeholder.com/75x16/444/fcfcfc?text=Botones "Código Fuente del artículo Imágenes")](https://drive.google.com/file/d/1x6TACRmABiGQdZbztIdMi73wMINwOta5/view?usp=sharing), creando listas o tablas. Aprenderemos como utilizar variables para ahorrarnos mucho trabajo y un par de trucos extra para traer [![url2](https://via.placeholder.com/75x16/98ca3f/444?text=Color "Código Fuente del artículo Imágenes")]() a nuestras publicaciones y para finalizar, veremos como incluir expresiones matemáticas **y obviamente como insertar imágenes, animaciones y videos.** 
 
 ==«==
 ---
