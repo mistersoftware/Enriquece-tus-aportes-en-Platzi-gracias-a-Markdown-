@@ -43,13 +43,12 @@ Para Vimeo funciona de igual manera. (Esta etiqueta ha sido solo ha sido probada
 `@[vimeo](427943407|https://vimeo.com/427943407/)`
 
 
-
 ==» El código anterior producirá: »==
 ---
 
 
-
 @[vimeo](128154222|https://vimeo.com/128154222/)
+
 
 Para Vimeo funciona de igual manera. (Esta etiqueta ha sido solo ha sido probada en publicaciones de Platzi)
 
@@ -66,13 +65,13 @@ Valga la aclaración que con este método **no es necesario descargar la thumbna
 
 | Nombre de miniatura      | Tamaño (px) | URL                                              |
 |---------------------|-----------|--------------------------------------------------|
-| Player Background   | 480x360   | https://i1.ytimg.com/vi/«VIDEO ID»/0.jpg         |
-| Start               | 120x90    | https://i1.ytimg.com/vi/«VIDEO ID»/1.jpg         |
-| Middle              | 120x90    | https://i1.ytimg.com/vi/«VIDEO ID»/2.jpg         |
-| End                 | 120x90    | https://i1.ytimg.com/vi/«VIDEO ID»/3.jpg         |
-| High Quality        | 480x360   | https://i1.ytimg.com/vi/«VIDEO ID»/hqdefault.jpg |
-| Medium Quality      | 320x180   | https://i1.ytimg.com/vi/«VIDEO ID»/mqdefault.jpg |
-| Normal Quality      | 120x90    | https://i1.ytimg.com/vi/«VIDEO ID»/default.jpg 
+| Player Background   | 480x360   | https://i1.ytimg.com/vi/«VIDEOID»/0.jpg         |
+| Start               | 120x90    | https://i1.ytimg.com/vi/«VIDEOID»/1.jpg         |
+| Middle              | 120x90    | https://i1.ytimg.com/vi/«VIDEOID»/2.jpg         |
+| End                 | 120x90    | https://i1.ytimg.com/vi/«VIDEOID»/3.jpg         |
+| High Quality        | 480x360   | https://i1.ytimg.com/vi/«VIDEOID»/hqdefault.jpg |
+| Medium Quality      | 320x180   | https://i1.ytimg.com/vi/«VIDEOID»/mqdefault.jpg |
+| Normal Quality      | 120x90    | https://i1.ytimg.com/vi/«VIDEOID»/default.jpg 
 
 
 https://img.youtube.com/vi/<insert-youtube-video-id-here>/hqdefault.jpg
@@ -87,15 +86,15 @@ https://img.youtube.com/vi/<insert-youtube-video-id-here>/hqdefault.jpg
 [hqdefault]: https://i1.ytimg.com/vi/vi/ZYmIUiK8ZQI/hqdefault.jpg "hqdefault"
 [mqdefault]: https://i1.ytimg.com/vi/vi/ZYmIUiK8ZQI/mqdefault.jpg "mqdefault"
 [default]: https://i1.ytimg.com/vi/vi/ZYmIUiK8ZQI/default.jpg "default"
-[urlvimeo]: https://www.youtube.com/watch?v=ZYmIUiK8ZQI "Titulo del video"
+[urlYoutube]: https://www.youtube.com/watch?v=ZYmIUiK8ZQI "Titulo del video"
 
-[![x][background]][urlvimeo]
-[![x][start]][urlvimeo]
-[![x][middle]][urlvimeo]
-[![x][end]][urlvimeo]
-[![x][hqdefault]][urlvimeo]
-[![x][mqdefault]][urlvimeo]
-[![x][default]][urlvimeo]
+[![x][background]][urlYoutube]
+[![x][start]][urlYoutube]
+[![x][middle]][urlYoutube]
+[![x][end]][urlYoutube]
+[![x][hqdefault]][urlYoutube]
+[![x][mqdefault]][urlYoutube]
+[![x][default]][urlYoutube]
 ````
 
 
