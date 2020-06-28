@@ -1,5 +1,5 @@
 
-## _🇪🇸 ✍️ Enriquece tus aportes en Platzi gracias a Markdown👨‍🎨👩‍🎨_
+
 
 Las ideas recién nacidas son frágiles, y expuestas de la forma incorrecta en el entorno incorrecto, irremediablemente están destinadas a morir. **Aquí encontrarás los mejores atuendos para adornar tus ideas y darles la mejor apariencia con Markdown**, una forma rápida y efectiva de darle estilo a tus ideas para que resplandezcan y resalten en público, y si hay suerte, vuelvan a ti, diferentes, renovadas. 
 
@@ -66,18 +66,34 @@ Una de las grandes ventajas de este editor es una extensibilidad y adaptabilidad
 1. 🔣 [ASCII Art](https://platzi.com/comunidad/ascii-art-en-markdown/ "ASCII Art en Markdown") 
 1. ➗ [Bonus: Fórmulas matemáticas](https://platzi.com/comunidad/bonus-formulas-matematicas-en-markdown "Bonus: Fórmulas matemáticas en Markdown") 
 
+
+
+==«==
 ---
-
-**Si tienes alguna duda, déjala por favor en el sistema de comentarios.**
-
- ---
-
 
 **_Continúa tu aprendizaje con:_**
 
 * ⏩ [_Textos en Markdown_](https://platzi.com/comunidad/textos-en-markdown) 📖
 
+
+==»==
 ---
+
+
+Fuentes:
+---
+
+1. [Markdown Guide](https://ia.net/writer/support/general/markdown-guide) 
+2. [5 Markdown Tricks for GitHub](https://grantwinney.com/cool-markdown-tricks-for-github/)
+3. [How to Write Fas ter, Better & Longer: The Ultimate Guide to Markdown](https://ghost.org/changelog/markdown/)
+4. [Stackoverflow Vimeo API](https://stackoverflow.com/questions/1361149/get-img-thumbnails-from-vimeo)
+
+
+==«==
+---
+
+**Si tienes alguna duda, déjala por favor en el sistema de comentarios.**
+
 
 Hecho con el 💚 en el 2K20. 
 
