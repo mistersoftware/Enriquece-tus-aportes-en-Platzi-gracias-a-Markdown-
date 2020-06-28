@@ -1,4 +1,5 @@
 
+
 _Anterior:_ ⏪ [_Listas y Tablas en Markdown_](https://platzi.com/comunidad/listas-y-tablas-en-markdown) ☑️
 
 ==«==
@@ -55,7 +56,7 @@ Para Vimeo funciona de igual manera. (Esta etiqueta ha sido solo ha sido probada
 
 ## Enlazar video en Markdown (funciona en GitHub)
 
-Valga la aclaración que con este método **no es necesario descargar la thumbnail**, pues la etiqueta está escrita para que la tome automáticamente de la API de YoutubeHumanal.
+Valga la aclaración que con este método **no es necesario descargar la thumbnail**, pues la etiqueta está escrita para que la tome automáticamente de la API de Youtube.
 
 ==«==
 ---
