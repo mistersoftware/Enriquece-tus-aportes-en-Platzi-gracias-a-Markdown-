@@ -127,9 +127,9 @@ https://img.youtube.com/vi/<insert-youtube-video-id-here>/hqdefault.jpg
 
 Lo primero que debemos observar es la ID publica 128154222 y con ella realizamos el llamado a la api para obtener los datos del video, puedes elegir el formato que gustes
  
- [http://vimeo.com/api/v2/video/128154222.json](http://vimeo.com/api/v2/video/128154222.json)
- [http://vimeo.com/api/v2/video/128154222.php](http://vimeo.com/api/v2/video/128154222.php)
- [http://vimeo.com/api/v2/video/128154222.xml](http://vimeo.com/api/v2/video/128154222.xml)
+* [http://vimeo.com/api/v2/video/128154222.json](http://vimeo.com/api/v2/video/128154222.json)
+* [http://vimeo.com/api/v2/video/128154222.php](http://vimeo.com/api/v2/video/128154222.php)
+* [http://vimeo.com/api/v2/video/128154222.xml](http://vimeo.com/api/v2/video/128154222.xml)
  
 Para este ejemplo hemos realizado la llamada al archivo json, y luego de pasarlo por [jsonbeautifier](https://jsonbeautifier.org) obtenemos
 ---
